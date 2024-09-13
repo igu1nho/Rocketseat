@@ -1,1 +1,1 @@
-# 💻🖥️ Códigos dos desafios realizados pelas aulas da Rocketseat ⌨️📄
+# 💻🖥️ Códigos de desafios das aulas da Rocketseat ⌨️📄
